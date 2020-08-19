@@ -14,8 +14,13 @@
 > Agua y Energía no son mercancía
 
 RedLAR-2012
-
-[Ministerio de Salud de Costa Rica](https://www.ministeriodesalud.go.cr/)
+/
+# Páginas de Ministerios de Salud en Centroamerica
+[1- Ministerio de Salud de Costa Rica](https://www.ministeriodesalud.go.cr/)
+/
+[2- Ministerio de Salud de Nicaragua](https://www.minsa.gob.ni/index.php?option=com_content&view=article&id=1002&Itemid=163)
+/
+[3- Ministerio de Salud de Panamá](http://www.minsa.gob.pa/)
 
 
 
