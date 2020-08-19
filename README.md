@@ -10,10 +10,13 @@
 *Fernando Bermúdez-Kuminev*
 
 **Nació en Costa Rica**
-
+/
 > Agua y Energía no son mercancía
 
 RedLAR-2012
+
+[Ministerio de Salud de Costa Rica](https://www.ministeriodesalud.go.cr/)
+
 
 
 
