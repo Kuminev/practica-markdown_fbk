@@ -23,7 +23,7 @@ RedLAR-2012
 
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="logo r" width="200" height="200">
 
-#Resultados práctica SIG del 18_8_20  
+# Resultados práctica SIG del 18_8_20  
 
 ![](/IMAGENES/tarea1.JPG)  
 
@@ -38,6 +38,9 @@ Lista numerada HTML:
   <li> La conciencia es infinita </li>
   <li> El universo e suna dualidad entre caos y orden </li>
 
-
+<table>
+  <tr><td>Nombre</td><td>Apellido</td>
+  
+</table>
 
 
