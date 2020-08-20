@@ -23,7 +23,8 @@ RedLAR-2012
 
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="logo r" width="200" height="200">
 
-![](tarea1.jpg)
+![](tarea1.JPG)
+
 
 
 
