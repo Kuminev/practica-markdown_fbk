@@ -39,8 +39,9 @@ Lista numerada HTML:
   <li> El universo e suna dualidad entre caos y orden </li>
 
 <table>
-  <tr><td>Nombre</td><td>Apellido</td>
-  
+  <tr><th>Nombre</th><th>Apellido</th><th>Edad</th>
+  <tr><td>Fernando</td><td>Ramírez</td><td>38</td>
+  <tr><td>Oscar</td><td>Sanabria</td><td>39</td>
 </table>
 
 
