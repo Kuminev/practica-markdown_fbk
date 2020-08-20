@@ -23,9 +23,20 @@ RedLAR-2012
 
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="logo r" width="200" height="200">
 
-![](/IMAGENES/tarea1.JPG)
+#Resultados práctica SIG del 18_8_20  
 
+![](/IMAGENES/tarea1.JPG)  
 
+Lista numerada Markdown:
+1. La vida es finita
+2. La conciencia es infinita
+3. El universo e suna dualidad entre caos y orden
+
+Lista numerada HTML:
+<ol>
+  <li> La vida es finita </li>
+  <li> La conciencia es infinita </li>
+  <li> El universo e suna dualidad entre caos y orden </li>
 
 
 
